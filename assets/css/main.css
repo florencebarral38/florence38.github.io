@@ -279,7 +279,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 0.9em;
+		font-size: 1.2em;
 	}
 
 	h4 {
@@ -4438,6 +4438,7 @@ h2.major {
   color: #2e2e2e; /* couleur appliquée à tout le texte de la section */
 }
 }
+
 
 
 
