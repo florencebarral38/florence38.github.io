@@ -3831,7 +3831,7 @@ input, select, textarea {
 			}
 
 				.wrapper.spotlight.style2:before, .wrapper.spotlight.style2:after {
-					background-color: #000000
+					background-color: #f5e6e8
 				}
 
 				.wrapper.spotlight.style2:before {
@@ -4437,6 +4437,7 @@ h2.major {
   color: #2e2e2e; /* couleur appliquée à tout le texte de la section */
 }
 }
+
 
 
 
