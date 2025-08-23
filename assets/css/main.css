@@ -3738,7 +3738,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style5:before, .wrapper.style5:after {
-				background-color: #000000
+				background-color: #d48c9b
 			}
 
 			.wrapper.style5:before {
@@ -4437,6 +4437,7 @@ h2.major {
   color: #2e2e2e; /* couleur appliquée à tout le texte de la section */
 }
 }
+
 
 
 
